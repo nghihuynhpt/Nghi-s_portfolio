@@ -6,7 +6,7 @@ This was a personal project where I analyzed sales data from a pizza restaurant 
 
 * Data was taken from the [pizza sales dataset](https://ntlink.co/pizza-sales-dataset).
 * You can see the interactive dashboard [here](https://ntlink.co/pizza-sales-report).
-* **Tools used:** [SQL](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Pizza%20Sales%20Analysis.sql) and [Power BI](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Pizza%20Sales%20Project.pbix).
+* **Tools used:** SQL and Power BI.
 
 ## Overview of the Pizza Sales Report
 ![](Images/Pizza%20Sales%20Project-1.jpg)![](Images/Pizza%20Sales%20Project-2.jpg)
@@ -17,7 +17,7 @@ This was a personal project focused on tracking loan application patterns and ev
 
 * Data was taken from the [bank loan dataset](https://ntlink.co/financial-loan-dataset).
 * You can see the interactive dashboard [here](https://ntlink.co/bank-loan-report).
-* **Tools used:** [SQL](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Bank%20Loan%20Analysis.sql) and [Power BI](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Bank%20Loan.pbix).
+* **Tools used:** SQL and Power BI.
 
 ## Overview of the Bank Loan Report
 ![](Images/Bank%20Loan-1.jpg)![](Images/Bank%20Loan-2.jpg)![](Images/Bank%20Loan-3.jpg)
