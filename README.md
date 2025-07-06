@@ -56,6 +56,6 @@ My responsibilities included:
 * Data was collected from student [survey](https://ntlink.co/BHX-survey) forms in Ho Chi Minh City.
 * **Tool used:** SPSS.
 
-## Chi-Square Test
+## Chi-Square Tests
 ![](Images/KDChiBP_1.png)
 ![](Images/KDChiBP_2.png)
