@@ -2,7 +2,7 @@
 
 # [Project 1: Sales Trends and Customer Ordering Behavior in a Pizza Chain]
 
-This was a personal project where I analyzed sales data from a pizza restaurant to evaluate sales trends and product performance. The goal was to generate actionable insights for business users to improve decision-making on product strategy and operations. The process involved data cleaning, exploratory analysis, and visualization using tools like SQL and Power BI.
+This was a personal project where I analyzed sales data from a pizza restaurant to evaluate sales trends and product performance. The goal was to generate actionable insights for business users to improve decision-making on product strategy and operations. The process involved data cleaning, exploratory analysis, and visualization.
 
 * Data was taken from the [pizza sales dataset](https://ntlink.co/pizza-sales-dataset).
 * You can see the interactive dashboard [here](https://ntlink.co/pizza-sales-report).
@@ -34,11 +34,11 @@ My responsibilities included:
 * Defining the research objectives.
 * Developing the survey questionnaire for three variables: Empathy, Responsiveness, and Satisfaction, using a Likert scale.
 * Testing the relationship between pairs of qualitative variables:
-- First item Gender and Purchase Frequency / Average Monthly Spending / Most Frequently Purchased Item.
-- Second item Purchase Frequency and Average Monthly Spending / Most Frequently Purchased Item.
-- Average Monthly Spending and Most Frequently Purchased Item.
+** Gender and Purchase Frequency / Average Monthly Spending / Most Frequently Purchased Item.
+** Purchase Frequency and Average Monthly Spending / Most Frequently Purchased Item.
+** Average Monthly Spending and Most Frequently Purchased Item.
 (These relationships were examined using Crosstabulation and Chi-square tests to determine dependency. A p-value less than the significance level indicated a relationship between the variables.)
-- Proposing future research directions to enhance the representativeness and accuracy of the study's findings.
+** Proposing future research directions to enhance the representativeness and accuracy of the study's findings.
 
 * Data was collected from student survey forms in Ho Chi Minh City.
 * Tools used: SPSS.
