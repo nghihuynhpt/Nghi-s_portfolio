@@ -57,5 +57,5 @@ My responsibilities included:
 * **Tool used:** SPSS.
 
 ## Chi-Square Test
-![](Images/KDChiBP_1.jpg)
-![](Images/KDChiBP_2.jpg)
+![](Images/KDChiBP_1.png)
+![](Images/KDChiBP_2.png)
