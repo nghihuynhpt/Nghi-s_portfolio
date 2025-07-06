@@ -34,8 +34,8 @@ My responsibilities included:
 * Defining the research objectives.
 * Developing the survey questionnaire for three variables: Empathy, Responsiveness, and Satisfaction, using a Likert scale.
 * Testing the relationship between pairs of qualitative variables:
-- Gender and Purchase Frequency / Average Monthly Spending / Most Frequently Purchased Item.
-- Purchase Frequency and Average Monthly Spending / Most Frequently Purchased Item.
+- First item Gender and Purchase Frequency / Average Monthly Spending / Most Frequently Purchased Item.
+- Second item Purchase Frequency and Average Monthly Spending / Most Frequently Purchased Item.
 - Average Monthly Spending and Most Frequently Purchased Item.
 (These relationships were examined using Crosstabulation and Chi-square tests to determine dependency. A p-value less than the significance level indicated a relationship between the variables.)
 - Proposing future research directions to enhance the representativeness and accuracy of the study's findings.
