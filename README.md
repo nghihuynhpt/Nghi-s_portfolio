@@ -10,19 +10,20 @@ This was a personal project where I analyzed sales data from a pizza restaurant 
 
 ## Overview of the Pizza Sales Report
 
+
 # [Project 2: Bank Loan Performance Analysis]
 
 This was a personal project focused on tracking loan application patterns and evaluating financial health indicators. It aimed to deliver clear insights into disbursement trends, credit quality, and borrower behavior to support data-informed decision-making.
 
-* Data was taken from the [bank loan dataset](https://ntlink.co/financial-loan-dataset)
-* You can see the interactive dashboard [here](https://ntlink.co/bank-loan-report)
+* Data was taken from the [bank loan dataset](https://ntlink.co/financial-loan-dataset).
+* You can see the interactive dashboard [here](https://ntlink.co/bank-loan-report).
 * Tools used: SQL and Power BI.
 
 # [Project 3: Brand Positioning and Brand Identity of Hoa Tho]
 
 This was a personal project for the Market Data Analysis course, aimed at evaluating the brand health of Hoa Tho — one of the leading textile and garment enterprises in Vietnam — in the men’s office fashion market. The project assessed consumer awareness, perception, usage, and brand image, and benchmarked Hoa Tho against key competitors such as Viettien, An Phuoc, etc.
 
-* Data was taken from the [Hoa Tho - Brand research dataset](https://ntlink.co/Hoa-Tho-Brand-research-dataset)
+* Data was taken from the [Hoa Tho - Brand research dataset](https://ntlink.co/Hoa-Tho-Brand-research-dataset).
 * Tools used: SPSS and Excel.
 
 # [Project 4: Service Factors Influencing Customer Satisfaction at Bach Hoa Xanh]
