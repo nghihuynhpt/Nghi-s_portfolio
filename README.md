@@ -51,7 +51,7 @@ My responsibilities included:
   * Purchase Frequency and Average Monthly Spending / Most Frequently Purchased Item.
   * Average Monthly Spending and Most Frequently Purchased Item.
 (These relationships were examined using Crosstabulation and Chi-square tests to determine dependency. A p-value less than the significance level indicated a relationship between the variables.)
-  * Proposing future research directions to enhance the representativeness and accuracy of the study's findings.
+* Proposing future research directions to enhance the representativeness and accuracy of the study's findings.
 
 * Data was collected from student [survey](https://ntlink.co/BHX-survey) forms in Ho Chi Minh City.
 * **Tool used:** SPSS.
