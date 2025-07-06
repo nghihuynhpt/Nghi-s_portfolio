@@ -6,19 +6,19 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 */
 
 # A. KPI’s
-1. Total Revenue:
+-- Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
 
-2. Average Order Value
+-- Average Order Value
 SELECT (SUM(total_price) / COUNT(DISTINCT order_id)) AS Avg_order_Value FROM pizza_sales
 
-3. Total Pizzas Sold
+-- Total Pizzas Sold
 SELECT SUM(quantity) AS Total_pizza_sold FROM pizza_sales
 
-4. Total Orders
+-- Total Orders
 SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales
 
-5. Average Pizzas Per Order
+-- Average Pizzas Per Order
 SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / 
 CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2))
 AS Avg_Pizzas_per_order
