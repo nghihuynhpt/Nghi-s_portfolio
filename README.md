@@ -1,32 +1,45 @@
 # Nghi's Portfolio
 
-# [Project 1: Sales Trends and Customer Ordering Behavior in a Pizza Chain]
+# Project 1: Sales Trends and Customer Ordering Behavior in a Pizza Chain
 
 This was a personal project where I analyzed sales data from a pizza restaurant to evaluate sales trends and product performance. The goal was to generate actionable insights for business users to improve decision-making on product strategy and operations. The process involved data cleaning, exploratory analysis, and visualization.
 
 * Data was taken from the [pizza sales dataset](https://ntlink.co/pizza-sales-dataset).
 * You can see the interactive dashboard [here](https://ntlink.co/pizza-sales-report).
-* **Tools used:** SQL and Power BI.
+* **Tools used:** [SQL](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Pizza%20Sales%20Analysis.sql) and [Power BI](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Pizza%20Sales%20Project.pbix).
 
 ## Overview of the Pizza Sales Report
+![](Images/Pizza%20Sales%20Project-1.jpg)![](Images/Pizza%20Sales%20Project-2.jpg)
 
-
-# [Project 2: Bank Loan Performance Analysis]
+# Project 2: Bank Loan Performance Analysis
 
 This was a personal project focused on tracking loan application patterns and evaluating financial health indicators. It aimed to deliver clear insights into disbursement trends, credit quality, and borrower behavior to support data-informed decision-making.
 
 * Data was taken from the [bank loan dataset](https://ntlink.co/financial-loan-dataset).
 * You can see the interactive dashboard [here](https://ntlink.co/bank-loan-report).
-* **Tools used:** SQL and Power BI.
+* **Tools used:** [SQL](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Bank%20Loan%20Analysis.sql) and [Power BI](https://github.com/nghihuynhpt/Nghi-s_portfolio/blob/main/Bank%20Loan.pbix).
 
-# [Project 3: Brand Positioning and Brand Identity of Hoa Tho]
+## Overview of the Bank Loan Report
+![](Images/Bank%20Loan-1.jpg)![](Images/Bank%20Loan-2.jpg)![](Images/Bank%20Loan-3.jpg)
+
+# Project 3: Brand Positioning and Brand Identity of Hoa Tho
 
 This was a personal project for the Market Data Analysis course, aimed at evaluating the brand health of Hoa Tho — one of the leading textile and garment enterprises in Vietnam — in the men’s office fashion market. The project assessed consumer awareness, perception, usage, and brand image, and benchmarked Hoa Tho against key competitors such as Viettien, An Phuoc, etc.
 
 * Data was taken from the [Hoa Tho - Brand research dataset](https://ntlink.co/Hoa-Tho-Brand-research-dataset).
 * **Tools used:** SPSS and Excel.
 
-# [Project 4: Service Factors Influencing Customer Satisfaction at Bach Hoa Xanh]
+## Brand Awareness
+![](Images/NhanbietTH.jpg)
+
+## Brand Loyalty
+![](Images/TrungthanhTH.jpg)
+
+## Brand Positioning Map
+![](Images/Bandodinhvi.jpg)
+
+
+# Project 4: Service Factors Influencing Customer Satisfaction at Bach Hoa Xanh
 
 This group project was conducted as part of a Marketing Research course to identify the key service factors influencing customer satisfaction at Bach Hoa Xanh. The goal was to provide the Marketing team with actionable insights to improve service offerings, based on an in-depth analysis of survey data.
 
@@ -42,3 +55,7 @@ My responsibilities included:
 
 * Data was collected from student [survey](https://ntlink.co/BHX-survey) forms in Ho Chi Minh City.
 * **Tool used:** SPSS.
+
+## Chi-Square Test
+![](Images/KDChiBP_1.jpg)
+![](Images/KDChiBP_2.jpg)
