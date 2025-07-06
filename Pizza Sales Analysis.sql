@@ -1,7 +1,7 @@
 /*
 Analysis of Sales Trends and Customer Ordering Behavior in a Pizza Chain
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Aggregate Functions, Filtering, Grouping Data, Ordering Results, Converting Data Types, Date Functions, Subqueries, TOP Clause
 
 */
 
